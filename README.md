@@ -29,7 +29,7 @@ NFC を活用したクリプトタッチ決済システムです。
 [CryptoPiTouch Beta (armeabi-v7a)](apps/crypto-pi-touch-beta-armeabi-v7a.apk)  
 [CryptoPiTouch Beta (x86_64)](apps/crypto-pi-touch-beta-x86_64.apk)
 
-iOS でも動作することは確認しておりますので、将来的には App Store / Goggle Play での配信を目標にしております。
+iOS でも動作することは確認しておりますので、将来的には App Store / Google Play での配信を目標にしております。
 
 ## 使い方
 
