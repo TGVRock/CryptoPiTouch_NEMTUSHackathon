@@ -6,7 +6,18 @@ CryptoPiTouch for NEMTUSハッカソン2024提出用リポジトリ
 
 ## 概要
 
-## アプリ
+NFC を活用したクリプトタッチ決済システムです。  
+本システムは、決済情報を受け渡すための端末機器と、端末機器と通信するモバイルアプリで構成されています。
+
+### 端末機器
+
+【これから書く】
+
+### モバイルアプリ
+
+【これから書く】
+
+## アプリ配布
 
 今回のハッカソン提出では Android のみの配布となります。(成果物提出時点)
 
@@ -18,29 +29,37 @@ CryptoPiTouch for NEMTUSハッカソン2024提出用リポジトリ
 [CryptoPiTouch Beta (armeabi-v7a)](apps/crypto-pi-touch-beta-armeabi-v7a.apk)  
 [CryptoPiTouch Beta (x86_64)](apps/crypto-pi-touch-beta-x86_64.apk)
 
-iOS でも動作することは確認しておりますので、将来的には App Store / Goggle Play での配布を目標にしております。
+iOS でも動作することは確認しておりますので、将来的には App Store / Goggle Play での配信を目標にしております。
 
 ## 使い方
 
-準備中。。。
+【これから書く】
 
-## デモ
+## デモ動画
+
+容量が大きいため、Wi-Fi環境での視聴推奨です。
 
 ### [Symbol](demos/demo_symbol.mp4)
 
-### Ethereum【準備中。。。】
+### [Ethereum](demos/demo_ethereum.mp4)
 
-### Astar【準備中。。。】
-
-## トラブルシュート
+### [Astar](demos/demo_astar.mp4)
 
 ## 連絡先
 
+感想、質問、不具合情報、なんでも大歓迎です！
+
 - X (旧Twitter)
-  - [だーりんピ](https://twitter.com/darling_pi_)
   - [まめしば](https://twitter.com/maromaro1989)
+  - [だーりんピ](https://twitter.com/darling_pi_)
+
+## トラブルシュート
+
+- タッチ後 MetaMask は開くが、署名ダイアログが表示されない
 
 ## TODO
+
+以下の挙動・事象は現状未対応ですが、将来的に対応したいと思います。
 
 ### 未実装項目
 
@@ -60,5 +79,5 @@ iOS でも動作することは確認しておりますので、将来的には 
 - 取引価格をリアルタイム更新できるようにする。
   - 現在は店舗側ページが開いた時・受取アドレスを変更した時のみ更新される。
 - 通知 (承認になった時、着金時、EVM系全般)
-- EVMチェーンのQR読み取り対応
-- EVMチェーンの受取履歴
+- 店舗側ページ : EVMチェーンのQR読み取り対応
+- 店舗側ページ : EVMチェーンの受取履歴
