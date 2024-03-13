@@ -1,5 +1,7 @@
 # CryptoPiTouch NEMTUSHackathon
 
+![wordlogo](images/wordlogo.png)
+
 CryptoPiTouch for NEMTUSハッカソン2024提出用リポジトリ
 
 ## 概要
@@ -13,12 +15,20 @@ CryptoPiTouch for NEMTUSハッカソン2024提出用リポジトリ
 古い機種の場合、アプリが起動しないことがあります。
 以下のアプリもお試しください。
 
-[CryptoPiTouch Beta (armeabi-v7a)](https://tgvrock.github.io/CryptoPiTouch_NEMTUSHackathon/apps/crypto-pi-touch-beta-armeabi-v7a.apk)  
-[CryptoPiTouch Beta (x86_64)](https://tgvrock.github.io/CryptoPiTouch_NEMTUSHackathon/apps/crypto-pi-touch-beta-x86_64.apk)
+[CryptoPiTouch Beta (armeabi-v7a)](apps/crypto-pi-touch-beta-armeabi-v7a.apk)  
+[CryptoPiTouch Beta (x86_64)](apps/crypto-pi-touch-beta-x86_64.apk)
 
 ## 使い方
 
+準備中。。。
+
 ## デモ
+
+準備中。。。
+
+## 現在判明している不具合
+
+- [iOS] アプリ起動後、初回の端末設定が必ず失敗します。
 
 ## 連絡先
 
