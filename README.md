@@ -29,14 +29,17 @@ iOS でも動作することは確認しておりますので、将来的には 
 
 ### Symbol
 
+- [YouTube](https://youtu.be/LwDMi24dl0c)
 - [動画ファイル ※Wi-Fi環境推奨](demos/demo_symbol.mp4)
 
 ### Ethereum
 
+- [YouTube](https://youtu.be/lR5RxytIIMo)
 - [動画ファイル ※Wi-Fi環境推奨](demos/demo_ethereum.mp4)
 
 ### Astar
 
+- [YouTube](https://youtu.be/ZdSgLeBOu8I)
 - [動画ファイル ※Wi-Fi環境推奨](demos/demo_astar.mp4)
 
 ## 【ハッカソン評価用】 使い方
