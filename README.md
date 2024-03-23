@@ -4,6 +4,9 @@
 
 CryptoPiTouch for NEMTUSハッカソン2024提出用リポジトリ
 
+- [NEMTUSハッカソン2024 ランディングページ](https://hackathon-2024.nemtus.com/)
+- [NEMTUSハッカソン2024 作品一覧ページ](https://nemtus-hackathon.web.app/years/2024/results)
+
 ## 概要
 
 NFC を活用したクリプトタッチ決済システムです。  
@@ -62,22 +65,22 @@ iOS でも動作することは確認しておりますので、将来的には 
 
 ## デモ動画
 
-容量が大きいため、Wi-Fi環境での視聴推奨です。
+Wi-Fi環境での視聴推奨です。
 
 ### Symbol
 
 - [YouTube](https://youtu.be/LwDMi24dl0c)
-- [動画ファイル ※Wi-Fi環境推奨](demos/demo_symbol.mp4)
+- [動画ファイル](demos/demo_symbol.mp4)
 
 ### Ethereum
 
 - [YouTube](https://youtu.be/lR5RxytIIMo)
-- [動画ファイル ※Wi-Fi環境推奨](demos/demo_ethereum.mp4)
+- [動画ファイル](demos/demo_ethereum.mp4)
 
 ### Astar
 
 - [YouTube](https://youtu.be/ZdSgLeBOu8I)
-- [動画ファイル ※Wi-Fi環境推奨](demos/demo_astar.mp4)
+- [動画ファイル](demos/demo_astar.mp4)
 
 ## 【ハッカソン評価用】 使い方
 
@@ -140,7 +143,7 @@ iOS でも動作することは確認しておりますので、将来的には 
 
 ### 改善したいこと
 
-- 取引価格をリアルタイム更新できるようにする。
+- ✅ [完了] 取引価格をリアルタイム更新できるようにする。
   - 現在は店舗側ページが開いた時・受取アドレスを変更した時のみ更新される。
 - 通知 (承認になった時、着金時、EVM系全般)
 - 店舗側ページ : EVMチェーンのQR読み取り対応
