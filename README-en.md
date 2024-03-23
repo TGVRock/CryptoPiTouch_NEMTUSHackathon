@@ -146,10 +146,13 @@ The following behaviors and events are currently not supported, but we would lik
 
 - ✅ [Completed] Enable real-time updating of transaction prices.
   - Currently it is updated only when the store side page is opened or when the receiving address is changed.
-- Notification (when approval is given, when payment is received, EVM system in general)
+- Notification
+  - when approval is given
+  - when payment is received
+  - EVM system in general
 - Store side page : EVM chain QR readable
 - Store side page : EVM chain receipt history
-- Store side page: Retention of last selected chain Store side page: Calculator-like UI
+- ✅ [Completed] Store side page: Retention of last selected chain
 - Store side page : I want to make it look like a calculator UI
 - Create terminal exterior
 - Expansion of supported chains and wallets
