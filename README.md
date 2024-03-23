@@ -2,7 +2,8 @@
 
 ![wordlogo](images/wordlogo.png)
 
-CryptoPiTouch for NEMTUSハッカソン2024提出用リポジトリ
+CryptoPiTouch for NEMTUSハッカソン2024提出用リポジトリ  
+[Click here for English page](https://github.com/TGVRock/CryptoPiTouch_NEMTUSHackathon/blob/master/README-en.md)
 
 - [NEMTUSハッカソン2024 ランディングページ](https://hackathon-2024.nemtus.com/)
 - [NEMTUSハッカソン2024 作品一覧ページ](https://nemtus-hackathon.web.app/years/2024/results)
