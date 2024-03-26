@@ -139,16 +139,15 @@ The following behaviors and events are currently not supported, but we would lik
 
 ### Currently known defects
 
-- [iOS] The first time after launching the app, the device setup always fails.
-  - After the second time, it is fine.
+- ✅ [Completed] ~~[iOS] The first time after launching the app, the device setup always fails.~~
+  - Fix completed.
 
 ### What we want to improve
 
 - ✅ [Completed] Enable real-time updating of transaction prices.
-  - Currently it is updated only when the store side page is opened or when the receiving address is changed.
 - Notification
   - when approval is given
-  - when payment is received
+  - ✅ [Completed] when payment is received
   - EVM system in general
 - Store side page : EVM chain QR readable
 - Store side page : EVM chain receipt history
