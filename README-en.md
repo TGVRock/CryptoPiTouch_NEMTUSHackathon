@@ -104,6 +104,13 @@ You can simulate the experience by writing specific information to your NFC tag.
 |            5 | amount             | Set the quantity in consideration of divisibility. (In case of sending 1XYM by Symbol, set `1000000`; in case of EVM chain, set value in Gwei). |
 |            6 | divisibility       | Symbol : `6`<br>EVM-based chains : `9`                                                                     |
 
+## Examples of applications other than touch payment
+
+- Authentication
+  - Example implementation: Pass account information to the terminal and check if it has a specific token.
+  - Practical examples: smart keys, ticket authentication for events, etc..
+  - [An image video is available at X (formerly Twitter) !](https://twitter.com/maromaro1989/status/1774095223700042230?s=20)
+
 ## Contact us
 
 Comments, questions, bug information, anything is welcome!
